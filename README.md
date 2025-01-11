@@ -1,12 +1,15 @@
-# Hi, I'm Desilino 👋
+# Hi, there👋
 
 ### 👨‍💻 About Me
-I'm a **Senior Software Developer** based in Jakarta, Indonesia
+My name is Desilino Muharyadi Putra, a **Senior Software Developer** based in Jakarta, Indonesia
 
 - 🏢 I'm currently working at [Kartel Daun](https://karteldaun.com)
 - ⚙️ I use daily: `.php`, `.js`, `.vue`, `.html`, `.css`
-- 🌱 Learning all about **Software Engineering**
+- 🌱 Learning all about **System Design, TDD, and Performance Optimization**
 - 💬 Ping me about [Laravel](https://laravel.com), [Vue](https://vuejs.org), [Tailwind CSS](https://tailwindcss.com), [Livewire](https://laravel-livewire.com)
+
+
+---
 
 ### 💻 Technology Stack
 <p>
