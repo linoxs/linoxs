@@ -3,8 +3,8 @@
 ### 👨‍💻 About Me
 My name is Desilino Muharyadi Putra, a **Senior Software Developer** based in Jakarta, Indonesia
 
-- 🏢 I'm currently working at [Kartel Daun](https://karteldaun.com)
-- ⚙️ I use daily: `.php`, `.js`, `.vue`, `.html`, `.css`
+- 🏢 Currently working at [Courtesy Computer Services]([https://karteldaun.com](https://courtesycs.com/))
+- ⚙️ I use daily: `.php`, `.js`, `.vue`, `.html`, `htmx`, `.css`
 - 🌱 Learning all about **System Design, TDD, and Performance Optimization**
 - 💬 Ping me about [Laravel](https://laravel.com), [Vue](https://vuejs.org), [Tailwind CSS](https://tailwindcss.com), [Livewire](https://laravel-livewire.com)
 
